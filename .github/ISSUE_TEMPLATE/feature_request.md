@@ -9,17 +9,18 @@ assignees: ''
 
 ---
 
-As a ‹role›, I'd like to ‹feature short description› [ , in order to ‹value it adds›. ]
+Als <Rolle> möchte ich <Kurzbeschreibung> [ , um <einen Mehrwert> zu schaffen].
 
 ---
 
-### :thought_balloon: &nbsp; Hints & Thoughts
+### :thought_balloon: &nbsp; Hinweise & Gedanken
 
-### :question: &nbsp; Additional Questions to Answer / Consider
+### :question: &nbsp; Zusätzliche Fragen zum Beantworten / Überlegen
 
 ---
 
-## :white_check_mark: &nbsp; Conditions of satisfaction
+## :white_check_mark: &nbsp; Conditions of Satisfaction
 
-- [ ] Should ‹testable condition that should be satisfied›
-- [ ] Should ‹testable condition that should be satisfied›
+- [ ] Sollte <testbare Bedingung, die erfüllt sein sollte>
+- [ ] Sollte <testbare Bedingung, die erfüllt sein sollte>
+- [ ] Sollte <testbare Bedingung, die erfüllt sein sollte>
