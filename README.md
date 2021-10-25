@@ -8,8 +8,7 @@
 
 ## Currently working on 💾
 
-- My Bachelor's project https://github.com/bptlab/ark_automate
-- My personal website https://github.com/SanJSp/sanjsp.github.io
+- The repository guide https://github.com/hpi-epic/repositoryguide -> check it out on [repositorygui.de](http://repositorygui.de/)
 
 ## My Stats
 
@@ -28,7 +27,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
-- Currently taking this [course](https://www.udemy.com/course/react-tutorial-and-projects-course/) to deepen my React knowledge  :rocket:)
+Currently enrolled in [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
+My Lectures for the winter term 2021:
+- [Introduction to data visualization](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-21-22-3363-introduction-to-data-visualization.html)
+- [Big Data Systems](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-21-22-3359-big-data-systems.html)
+- [Graphalgorithms](https://hpi.de/friedrich/teaching/ws21/graphalg.html)
+- [Process analytics in healthcare](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-21-22-3407-process-analytics-in-healthcare.html) 
 
 <!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
