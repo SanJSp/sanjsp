@@ -1,4 +1,4 @@
-# Hi I'm Sandro <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+# Hi I'm Sandro <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
 <!--
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sanjsp")
@@ -8,7 +8,8 @@
 
 ## Currently working on 💾
 
-- The repository guide https://github.com/hpi-epic/repositoryguide -> check it out on [repositorygui.de](http://repositorygui.de/)
+- A miro exercise generator (unfortunately private) -> check it out on [hpistudios.com](https://frontend-hpistudios-exercise.herokuapp.com/?exercise=1)
+- [TimeCapsule](https://github.com/emsbe/TimeCapsule): An MVP for a future mobile app to store your daily memories and receive a printed book of them in the end
 
 ## My Stats
 
@@ -29,10 +30,10 @@
 
 Currently enrolled in [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
 My Lectures for the winter term 2021:
-- [Introduction to data visualization](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-21-22-3363-introduction-to-data-visualization.html)
-- [Big Data Systems](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-21-22-3359-big-data-systems.html)
-- [Graphalgorithms](https://hpi.de/friedrich/teaching/ws21/graphalg.html)
-- [Process analytics in healthcare](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-21-22-3407-process-analytics-in-healthcare.html) 
+- [(Advanced) Competitve Programming](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3466-advanced-competitive-programming.html)
+- [Trends and Concepts of Business Application Architecture](https://hpi.de/plattner/teaching/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)
+- [Business Process Intelligence](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3420-business-process-intelligence.html)
+- [How to be a (Startup)-CTO](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3535-how-to-be-a-startup_cto.html) 
 
 <!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
