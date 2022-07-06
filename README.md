@@ -29,7 +29,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 Currently enrolled in [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
-My Lectures for the winter term 2021:
+My Lectures for the summer term 2022:
 - [(Advanced) Competitve Programming](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3466-advanced-competitive-programming.html)
 - [Trends and Concepts of Business Application Architecture](https://hpi.de/plattner/teaching/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)
 - [Business Process Intelligence](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3420-business-process-intelligence.html)
