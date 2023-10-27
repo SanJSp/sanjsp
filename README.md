@@ -8,8 +8,8 @@
 
 ## Currently working on 💾
 
-- A miro exercise generator (unfortunately private) -> check it out on [hpistudios.com](https://frontend-hpistudios-exercise.herokuapp.com/?exercise=1)
-- [TimeCapsule](https://github.com/emsbe/TimeCapsule): An MVP for a future mobile app to store your daily memories and receive a printed book of them in the end
+- A new search optimization feature in my workingstudent job at [Snowflake](https://careers.snowflake.com/us/en/blogarticle/snowflake-berlin-a-peek-inside-our-engineering-hub) in the Database Search team. 
+- [TimeCapsule](https://github.com/emsbe/TimeCapsule): An MVP for a future mobile app to store your daily memories and receive a printed book of them at the end of the year
 
 ## My Stats
 
@@ -29,11 +29,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 Currently enrolled in [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
-My Lectures for the summer term 2022:
-- [(Advanced) Competitve Programming](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3466-advanced-competitive-programming.html)
-- [Trends and Concepts of Business Application Architecture](https://hpi.de/plattner/teaching/summer-term-2022/trends-and-concepts-of-business-application-architecture.html)
-- [Business Process Intelligence](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3420-business-process-intelligence.html)
-- [How to be a (Startup)-CTO](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/sose-22-3535-how-to-be-a-startup_cto.html) 
+My Lectures for the winter term 2023:
+- [Big Data Lab](https://hpi.de/rabl/teaching/winter-term-2023-24/big-data-lab.html)
+- [Advances in BPM Research](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-23-24-3835-advances-in-bpm-research.html)
+- [Lecture Series on DB Research](https://hpi.de/en/rabl/teaching/winter-term-2023-24/lecture-series-on-database-research.html)
 
 <!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
