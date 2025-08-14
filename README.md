@@ -8,7 +8,7 @@
 
 ## Currently working on 💾
 
-- A new search optimization feature in my workingstudent job at [Snowflake](https://careers.snowflake.com/us/en/blogarticle/snowflake-berlin-a-peek-inside-our-engineering-hub) in the Database Search team. 
+- A [card game]([url](https://github.com/emso-sp/cardgame)) built in LOVE2d
 - [TimeCapsule](https://github.com/emsbe/TimeCapsule): An MVP for a future mobile app to store your daily memories and receive a printed book of them at the end of the year
 
 ## My Stats
@@ -28,12 +28,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
-Currently enrolled in [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
-My Lectures for the winter term 2023:
-- [Big Data Lab](https://hpi.de/rabl/teaching/winter-term-2023-24/big-data-lab.html)
-- [Advances in BPM Research](https://hpi.de/studium/im-studium/lehrveranstaltungen/it-systems-engineering-ma/lehrveranstaltung/wise-23-24-3835-advances-in-bpm-research.html)
-- [Lecture Series on DB Research](https://hpi.de/en/rabl/teaching/winter-term-2023-24/lecture-series-on-database-research.html)
-
+I recently graduated from my [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
+Currently im studying self paced:
+- [Hardware Conscious Data Processing]([https://hpi.de/rabl/teaching/winter-term-2023-24/big-data-lab.html](https://hpi.de/rabl/teaching/summer-term-2025/hardware-conscious-data-processing.html))
 <!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
