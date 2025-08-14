@@ -8,7 +8,7 @@
 
 ## Currently working on 💾
 
-- A [card game]([url](https://github.com/emso-sp/cardgame)) built in LOVE2d
+- A [card game](https://github.com/emso-sp/cardgame) built in LOVE2d
 - [TimeCapsule](https://github.com/emsbe/TimeCapsule): An MVP for a future mobile app to store your daily memories and receive a printed book of them at the end of the year
 
 ## My Stats
