@@ -30,7 +30,7 @@
 
 I recently graduated from my [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
 Currently im studying self paced:
-- [Hardware Conscious Data Processing]([https://hpi.de/rabl/teaching/winter-term-2023-24/big-data-lab.html](https://hpi.de/rabl/teaching/summer-term-2025/hardware-conscious-data-processing.html))
+- [Hardware Conscious Data Processing](https://hpi.de/rabl/teaching/summer-term-2025/hardware-conscious-data-processing.html)
 <!--
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
