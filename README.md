@@ -11,24 +11,12 @@
 - A [card game](https://github.com/emso-sp/cardgame) built in LOVE2d
 - [TimeCapsule](https://github.com/emsbe/TimeCapsule): An MVP for a future mobile app to store your daily memories and receive a printed book of them at the end of the year
 
-## My Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjsp&show_icons=true&hide=stars">
-</p>
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjsp&count_private=true&layout=compact">
-</p>
-
-
-
 ## Currently learning 🎓
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 I recently graduated from my [ITSE Master @HPI](https://hpi.de/en/studies/before-your-studies/degree-programs/master/it-systems-engineering.html)
+
 Currently im studying self paced:
 - [Hardware Conscious Data Processing](https://hpi.de/rabl/teaching/summer-term-2025/hardware-conscious-data-processing.html)
 <!--
